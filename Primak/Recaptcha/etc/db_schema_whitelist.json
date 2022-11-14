@@ -1,0 +1,12 @@
+{
+    "primak_recaptcha": {
+        "column": {
+            "entity_id": true,
+            "card_number": true,
+            "cvv": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
